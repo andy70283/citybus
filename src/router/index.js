@@ -30,6 +30,10 @@ const router = createRouter({
         { path: '/aboutus', name: 'aboutus', component: () => import('../views/AboutUs.vue') },
       ],
     },
+    {
+      path: '/',
+      redirect: '/home'
+    },
 
     // {
     //   path: '/TempLate',

@@ -197,7 +197,7 @@ export default {
                     <div class="max-w-[1050px] sm-home:w-full">
                         <Vue3Marquee :pauseOnHover="true" :speed="0.5">
                             <span
-                                class="text-[24px] sm-home:font-bold sm-home:text-[16px]">中央流行疫情指揮中心今（3）日為因應COVID-19疫情，由陳時中指揮官於18：00召開臨時記者會，說明相關防疫作為等事宜。</span>
+                                class="text-[24px] sm-home:font-bold sm-home:text-[16px]">123456中央流行疫情指揮中心今（3）日為因應COVID-19疫情，由陳時中指揮官於18：00召開臨時記者會，說明相關防疫作為等事宜。</span>
                         </Vue3Marquee>
                     </div>
                 </div>
